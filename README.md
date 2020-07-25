@@ -1,4 +1,4 @@
-![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneonlow.gif?raw=true)
+![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)
 
 
 
