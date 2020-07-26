@@ -1,6 +1,6 @@
 ![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)
 
-![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda.gif)
+![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)
 
 
 
