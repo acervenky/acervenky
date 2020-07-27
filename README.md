@@ -7,5 +7,5 @@
 ## Github Badges :
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)  
-![Profile views](https://gpvc.arturio.dev/acervenky)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile views](https://gpvc.arturio.dev/acervenky)](https://github.com/arturssmirnovs/github-profile-views-counter)
