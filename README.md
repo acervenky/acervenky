@@ -11,4 +11,4 @@
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Profile views](https://gpvc.arturio.dev/acervenky?style=centerme)](https://github.com/arturssmirnovs/github-profile-views-counter)
+<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
