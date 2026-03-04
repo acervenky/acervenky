@@ -8,7 +8,11 @@
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
 
-## Github Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Github Stats :
 
-<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=acervenky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acervenky&layout=compact&theme=tokyonight&hide_border=true&card_width=300" width="300" /></a> |
+| :---: | :---: |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acervenky&color=74c7ec&style=flat-square&label=PROFILE+VIEWS" alt="acervenky" />
+</p>
